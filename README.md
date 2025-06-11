@@ -50,7 +50,6 @@
 <br/>
 
 # 2. 채택한 개발 기술과 브랜치 전략
-노션 긁어오기
 
 ### React, styled-component
 - React
@@ -93,9 +92,33 @@
 <br/>
 
 # 3. 프로젝트 구조
-폴더구조
 
-이거 뭐 그리는 거 있지 않나요
+```
+📦 open-mind/
+├── public/
+│   └── images/
+├── src/
+│   ├── assets/
+│   │   ├── icons/
+│   │   └── images/
+│   ├── components/
+│   ├── context/
+│   ├── pages/
+│   │   ├── PostPage/
+│   │   │   └── components/
+│   │   ├── HomePage/
+│   │   └── ListPage/
+│   ├── styles/
+│   ├── hooks/
+│   ├── functions/
+│   └── services/
+├── .eslintrc.cjs
+├── .prettierrc
+├── vite.config.js
+├── jsconfig.json
+├── package.json
+└── README.md
+```
 
 <br/>
 <br/>
