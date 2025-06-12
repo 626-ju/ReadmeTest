@@ -179,3 +179,5 @@
  - 현재 계정을 삭제하고 싶을 때
    - 답변 목록 상단에 삭제하기 버튼을 눌러 나에게 달린 질문들과 회원정보를 삭제합니다.
 
+![앤서 대답](https://github.com/user-attachments/assets/f86d3a87-f4bf-4739-a045-cf582de3c4d4)
+
